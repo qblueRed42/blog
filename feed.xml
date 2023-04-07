@@ -1,0 +1,45 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+ <title>Blog</title>
+  <link>https://qbluered42.github.io/blog</link>
+  <description>My Blog</description>
+  <language>en</language>
+  <atom:link href="https://qbluered42.github.io/blog" rel="self" type="application/rss+xml" />
+  
+  
+
+<item>
+    <title>"How To Play Tetris In Vim"</title>
+    <link>https://qbluered42.github.io/blog/posts/2023/how_to_play_tetris_in_vim.html</link>
+    <description>Tetris In My Text Editor?</description>
+</item>
+               
+  
+
+<item>
+    <title>"This Planet Is Evil"</title>
+    <link>https://qbluered42.github.io/blog/posts/2021/this_planet_is_evil_game.html</link>
+    <description></description>
+</item>
+               
+  
+
+<item>
+    <title>"Ruby IRB Easter Egg"</title>
+    <link>https://qbluered42.github.io/blog/posts/2021/ruby_irb.html</link>
+    <description></description>
+</item>
+               
+  
+
+<item>
+    <title>"Sepia Stealth"</title>
+    <link>https://qbluered42.github.io/blog/posts/2021/sepia_stealth.html</link>
+    <description></description>
+</item>
+               
+
+</channel>
+
+</rss> 
